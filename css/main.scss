@@ -48,13 +48,13 @@ $theme-dark: #222;
 
 .header-content {
 	background: rgba(0,0,0,0.6);
-	padding: 200px !important;
+	padding: 200px 1px !important;
 }
 
 #mainNav {background-color: #fff;}
 
 header {
-	background-position-y: -130px;
+	background-position-y: 6px;
 }
 .navbar-default .nav > li > a, .navbar-default .nav > li > a:focus {color:black;}
 .navbar-default .nav > li > a:hover, .navbar-default .nav > li > a:focus:hover {color:#6700B0;}

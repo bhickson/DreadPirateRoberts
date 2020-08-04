@@ -63,6 +63,7 @@ header {
 
 .dayCol {
 	padding: 0px 40px;
+	border: 1px solid grey;
 }
 .dayCol p {
 	font-weight: 1000;
@@ -83,7 +84,7 @@ header {
 	border-color: transparent;
 }
 .btn {
-	margin: 0px 10px;
+	margin: 3px 10px;
 }
 #toBringList {
 	max-width: 300px;
@@ -99,3 +100,7 @@ header {
 	max-width: 600px;
 	margin:auto;
 }
+#agenda tr {
+	border-bottom: 1px solid grey;
+}
+
